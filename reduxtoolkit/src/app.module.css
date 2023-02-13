@@ -1,0 +1,22 @@
+.app{
+    height:100vh;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(rgb(52, 161, 94),rgb(199, 214, 62));
+}
+.app h1{
+    font-size:64px;
+}
+.btn{
+    width:500px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.sbtn{
+    width: 130px;
+    height: 40px;
+    border-radius: 40px;
+    text-transform: capitalize;
+}
